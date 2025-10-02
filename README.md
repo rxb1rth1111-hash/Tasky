@@ -133,10 +133,3 @@ _Easily create new tasks with due dates and categories._
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
-## Contact
-
-Feel free to reach out for any questions or suggestions:
-
-- **Email**: vkupin@neoflex.ru
-- **GitHub**: [xin3c](https://github.com/xin3c)
